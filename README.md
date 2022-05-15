@@ -1,12 +1,18 @@
 # Olá, Sou o Gabriel Kopke Junior ou GKJ 
 
-## Sobre mim
+<img align="right" alt="GIF"  height="330" width="450" src="https://www.grupooffice.com.br/gallery_gen/6aeca5424ed96a96fb9b5ce60687e2e7_anim.gif">
 
+
+
+
+## Sobre mim
 - Olá me chamo Gabriel Moreira Kopke Junior (GKJ), um programador da área de dados e backend com uma queda por devOps. Tenho muita vontade de aprender sobre análise de ados, machine learning e data science. E, como não só de dados vive um data scientist, tenho muito apreço pela área de backend e devops.
 
 - Estou interessado em ciência de dados, devops e backend. Front pretendo aprender, mas não é algo que pretendo me aprimorar, pelo menos no momento.
 
 - Atualmente estou aprendendo Java, python e google cloud. 
+
+
 
 
 ## Contatos
