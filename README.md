@@ -19,17 +19,20 @@
   
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-kopke-jr)](https://github.com/anuraghazra/github-readme-stats)
+  <div style="display: inline_block"><br>
 
-
-
-
-
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg"  height="30" width="40" />
- </div>
+  <img align="center" alt="GKJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/ 
+       </div>
   
-    
+  
+  
+<div align="center">
+  <a href="https://github.com/Gabriel-kopke-jr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-kopke-jr&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-kopke-jr&layout=compact&langs_count=7"/>
+</div>
+
+
+
 
